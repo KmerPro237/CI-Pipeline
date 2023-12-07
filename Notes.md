@@ -1,6 +1,6 @@
 # Notes 
 
-## Continuous-Pipeline
+## Continuous Integration Pipeline
 
 - Role of CI: Detect bugs early enough to hinder the growth in their complexity.
 
@@ -10,7 +10,7 @@ Code -> VCS -> Build Server -> Artifact -> Arti/software-Repo -> Test Servers ->
 
 ![image](https://github.com/KmerPro237/CI-Pipeline/assets/118595893/db12284e-40f3-4a74-ac84-72a930d6b667)
 
-## CD-Pipeline
+## Continuous Delivery Pipeline
 Continous delivery processes include:
 - Server provisoning, Dependencies, Conf changes, Network, Artifact deploy and many other changes
 
