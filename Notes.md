@@ -1,6 +1,6 @@
 # Notes 
 
-## CI-Pipeline
+## Continuous-Pipeline
 
 - Role of CI: Detect bugs early enough to hinder the growth in their complexity.
 
