@@ -1,4 +1,4 @@
-# DevOps advancement journey
+# DevOps from beginner to advanced 
 
 💫 Hi there 👋
 
